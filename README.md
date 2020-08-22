@@ -1,5 +1,5 @@
 # Computer-Vision---Image-Basics-with-OpenCV-and-Python
-Object Detection using OpenCV and Python.
+Object Detection using OpenCV and Python
 
 How to open an Image with Matplotlib. 
 Differences between Matplotlib and OpenCV.
