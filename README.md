@@ -9,6 +9,6 @@ How to Flip, resize an image, how to draw shapes and write on an image.
 In this project, you will learn how to do Computer Vision on images with OpenCV and Python using Jupyter Notebook. 
 
 SKILLS YOU WILL DEVELOP
-Opencv
-Python Programming
+Opencv,
+Python Programming,
 Jupyter Notebook
